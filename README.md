@@ -42,7 +42,7 @@ $ git clone https://github.com/Herusyahputra/moilapp-plugin-car-parking-systems.
 ```
 $ cd moilapp-plugin-car-parking-systems
 ```
-8. Install requirement:
+8. Install requirements:
 ```
 $ pip install -r requirements.txt
 ```
@@ -54,7 +54,7 @@ $ cd ../../
 ```
 $ python3 main.py
 ```
-11. select the plugin that has been marked
+11. select the plugin that has been marked:
 ![](img_plugin/plugin_parking.jpeg)
 
 ### Contact
